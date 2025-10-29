@@ -8,26 +8,11 @@ license = "MIT"
 repository = "https://github.com/subhdotsol/FileOrganizer"
 readme = "README.md"
 keywords = [
-    "Rust file organizer",
-    "CLI file organizer",
-    "command-line file manager",
-    "automatic file organizer",
-    "file sorter tool",
-    "organize files by type",
-    "organize files by date",
-    "file organization automation",
     "Rust CLI tool",
-    "duplicate file detector",
+    "file organizer",
+    "automatic file sorter",
+    "duplicate detection",
     "real-time file watcher",
-    "watch mode file organizer",
-    "open-source file organizer",
-    "cross-platform CLI tool",
-    "Rust file management tool",
-    "auto file cleanup",
-    "terminal file organizer",
-    "sort files automatically",
-    "file organizer with watch mode",
-    "Rust command line utility",
 ]
 categories = ["command-line-utilities", "multimedia", "network-programming"]
 
