@@ -1,7 +1,35 @@
 [package]
-name = "FileOrganizer"
+name = "tidy"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
+description = "Tidy is a Rust-based CLI tool to automatically organize your files by type and modified date, with duplicate detection and an optional watch mode for real-time organization."
+authors = ["Subhajit Chaudhury <subhajitchaudhury05@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/subhdotsol/FileOrganizer"
+readme = "README.md"
+keywords = [
+    "Rust file organizer",
+    "CLI file organizer",
+    "command-line file manager",
+    "automatic file organizer",
+    "file sorter tool",
+    "organize files by type",
+    "organize files by date",
+    "file organization automation",
+    "Rust CLI tool",
+    "duplicate file detector",
+    "real-time file watcher",
+    "watch mode file organizer",
+    "open-source file organizer",
+    "cross-platform CLI tool",
+    "Rust file management tool",
+    "auto file cleanup",
+    "terminal file organizer",
+    "sort files automatically",
+    "file organizer with watch mode",
+    "Rust command line utility",
+]
+categories = ["command-line-utilities", "multimedia", "network-programming"]
 
 [dependencies]
 chrono = "0.4.42"
