@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/subhdotsol/FileOrganizer"
 readme = "README.md"
 keywords = [
-    "Rust CLI tool",
+    "rust cli tool",
     "file organizer",
     "automatic file sorter",
     "duplicate detection",
