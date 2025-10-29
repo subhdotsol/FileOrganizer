@@ -1,8 +1,8 @@
 [package]
-name = "tidy"
+name = "sortit"
 version = "0.1.0"
 edition = "2024"
-description = "Tidy is a Rust-based CLI tool to automatically organize your files by type and modified date, with duplicate detection and an optional watch mode for real-time organization."
+description = "Sortit is a Rust-based CLI tool to automatically organize your files by type and modified date, with duplicate detection and an optional watch mode for real-time organization."
 authors = ["Subhajit Chaudhury <subhajitchaudhury05@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/subhdotsol/FileOrganizer"
